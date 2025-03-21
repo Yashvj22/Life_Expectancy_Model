@@ -6,7 +6,7 @@ This project predicts **Life Expectancy** based on various socio-economic and he
 - **Exploratory Data Analysis (EDA)**: Visualizing and understanding key factors affecting life expectancy.
 - **Data Preprocessing**: Handling missing values, feature scaling, and transformation.
 - **Model Building**: Implemented multiple regression models with **hyperparameter tuning**.
-- **Evaluation Metrics**: Used RMSE, R² Score, and MAE to evaluate model performance.
+- **Evaluation Metrics**: Used R² Score to evaluate model performance.
 - **Interactive Streamlit App**: Users can input data and get real-time predictions.
 
 ##  How to Use
